@@ -2,5 +2,5 @@
 This is a scientific Calculator
 
 
-<img src='calculatro.PNG' alt="banner"></img>
-<img src='calculatro_2.PNG' alt="banner"></img>
+<img src='calculator.PNG' alt="banner"></img>
+<img src='calculatpr_1.PNG' alt="banner"></img>
